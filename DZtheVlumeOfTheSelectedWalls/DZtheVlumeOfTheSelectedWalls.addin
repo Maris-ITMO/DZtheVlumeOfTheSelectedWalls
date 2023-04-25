@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\DZtheVlumeOfTheSelectedWalls.dll"</Assembly>
+		<AddInId>5FCB58F2-C1B6-4CE4-B21D-30E020FF7097</AddInId>
+		<FullClassName>DZtheVlumeOfTheSelectedWalls.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>DZ 3.1 Объем выбранных стен</Text>
+	</AddIn>
+</RevitAddIns>
